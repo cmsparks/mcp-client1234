@@ -84,7 +84,7 @@ function App() {
             className="mcp-input"
             placeholder="MCP Server URL"
           />
-          <button type="submit">Add MCP Server</button>
+          <button type="submit">Addaskjdfjkasdjkfsd MCP Server</button>
         </form>
       </div>
 
